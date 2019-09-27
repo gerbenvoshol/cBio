@@ -1,0 +1,3 @@
+libemboss_la-ajjava.lo: ajjava.c /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:

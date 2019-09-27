@@ -1,0 +1,37 @@
+libcbio_la-xmltok.lo: xmltok.c /usr/include/stdc-predef.h \
+ /home/linuxbrew/.linuxbrew/Cellar/gcc/5.5.0_4/lib/gcc/x86_64-unknown-linux-gnu/5.5.0/include/stddef.h \
+ expat_config.h config.h expat_external.h internal.h xmltok.h nametab.h \
+ xmltok_impl.h ascii.h xmltok_impl.c asciitab.h utf8tab.h iasciitab.h \
+ latin1tab.h xmltok_ns.c
+
+/usr/include/stdc-predef.h:
+
+/home/linuxbrew/.linuxbrew/Cellar/gcc/5.5.0_4/lib/gcc/x86_64-unknown-linux-gnu/5.5.0/include/stddef.h:
+
+expat_config.h:
+
+config.h:
+
+expat_external.h:
+
+internal.h:
+
+xmltok.h:
+
+nametab.h:
+
+xmltok_impl.h:
+
+ascii.h:
+
+xmltok_impl.c:
+
+asciitab.h:
+
+utf8tab.h:
+
+iasciitab.h:
+
+latin1tab.h:
+
+xmltok_ns.c:

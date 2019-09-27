@@ -1,0 +1,7 @@
+libemboss_la-pdf.lo: pdf.c /usr/include/stdc-predef.h plDevs.h config.h
+
+/usr/include/stdc-predef.h:
+
+plDevs.h:
+
+config.h:

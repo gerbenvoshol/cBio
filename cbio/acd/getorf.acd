@@ -106,6 +106,15 @@ section: advanced [
     relations: "EDAM_data:2527 Parameter"
   ]
 
+  boolean: stop [
+    default: "N"
+    information: "Include the STOP codon in the output"
+    help: "Some programs require the stop to be present in the output, while
+           other programs do not tolerate the presence of a stop codon. Therefore,
+           this is added as an option."
+    relations: "EDAM_data:2527 Parameter"
+  ]
+
   boolean: circular [
     default: "N"
     information: "Is the sequence circular"
